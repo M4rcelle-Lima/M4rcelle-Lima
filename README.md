@@ -1,5 +1,5 @@
-### print('Hello developer')
 
+### Hello developer 👾
 ##
 
 * I'm currently working with financial data analysis using: Python, SQL and R;
@@ -21,9 +21,9 @@
   
   <img align="center" alt="Marce-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Marce-Postgree" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Marce-Postgree" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
-  <img align="center" alt="Marce-Postgree" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg">
-  <img align="center" alt="Marce-Postgree" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Marce-Matlab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
+  <img align="center" alt="Marce-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg">
+  <img align="center" alt="Marce-Vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
  
 </div>
   
