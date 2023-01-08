@@ -38,5 +38,5 @@ Undergraduate student of Electrical Engineering at the Federal University of Sã
   <a href="https://discord.com/channels/691034442931634196" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
   ##
-  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4rcelle-Lima&layout=compact&theme=github_dark)](https://github.com/M4rcelle-Lima/github-readme-stats)
+  ### Top Langs
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4rcelle-Lima&langs_count=8&theme=transparent&color=blue)](https://github.com/M4rcelle-Lima/github-readme-stats)
